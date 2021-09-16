@@ -4,6 +4,6 @@ count = numero
 
 while count > 1:
     count -= 1
-    resultado = resultado * count
+    resultado *= count
 
 print(f"{numero}! é igual a {resultado}")
