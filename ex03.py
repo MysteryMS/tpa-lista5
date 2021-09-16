@@ -1,5 +1,5 @@
 count = 1
-maioresDeIdade = []
+maiores_de_idade = []
 while (count <= 10):
     ano = int(input(f"Insira a idade {count}: "))
     if 2021 - ano >= 18:

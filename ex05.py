@@ -2,7 +2,7 @@ numero = int(input("Insira um número: "))
 resultado = numero
 count = numero
 
-while (count > 1):
+while count > 1:
     count -= 1
     resultado = resultado * count
 
