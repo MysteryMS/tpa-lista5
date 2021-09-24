@@ -1,5 +1,4 @@
-
-#teste de aula
+# aula com o Pedro Piva
 
 count = 1
 maiores_de_idade = []
