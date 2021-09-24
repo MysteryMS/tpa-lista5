@@ -1,8 +1,11 @@
+
+#teste de aula
+
 count = 1
 maiores_de_idade = []
 
 while count <= 10:
-    ano = int(input(f"Insira a| idade {count}: "))
+    ano = int(input(f"Insira a idade {count}: "))
     if 2021 - ano >= 18:
         maiores_de_idade.append(ano)
     count += 1
